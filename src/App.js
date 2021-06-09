@@ -1,13 +1,13 @@
 import React from 'react';
 import './App.css';
-import DocTitleOne from './DocTitleOne';
-import DocTitleTwo from './DocTitleTwo';
+import CounterOne from './CounterOne';
+import CounterTwo from './CounterTwo';
 
 function App() {
   return (
     <div className='App'>
-      <DocTitleOne />
-      <DocTitleTwo />
+      <CounterOne />
+      <CounterTwo />
     </div>
   );
 }
